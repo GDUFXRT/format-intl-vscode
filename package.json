@@ -92,5 +92,6 @@
   "dependencies": {
     "@babel/parser": "^7.16.3",
     "fs-extra": "^10.0.0"
-  }
+  },
+  "repository": "https://github.com/GDUFXRT/format-intl-vscode.git"
 }
